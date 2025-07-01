@@ -150,7 +150,7 @@ const BrandsSectionRedesigned = () => {
               </div>
               <h4 className="text-xl font-bold text-[#282e76] mb-4">Self-Checkouts</h4>
               <p className="text-gray-600 leading-relaxed">
-                Somos a primeira empresa do segmento de varejo em Campina Grande a investir em self-checkouts, trazendo 
+                Somos a primeira empresa do segmento de varejo da Paraiba a investir em self-checkouts, trazendo 
                 <strong className="text-[#0d7c3d]"> agilidade, autonomia</strong> e uma nova 
                 experiência de compra para os nossos clientes.
               </p>
@@ -186,9 +186,9 @@ const BrandsSectionRedesigned = () => {
               <div className="bg-gradient-to-br from-[#059669] to-[#0d7c3d] rounded-2xl p-4 mb-6 w-fit group-hover:scale-110 transition-transform duration-300">
                 <Zap className="w-8 h-8 text-white" />
               </div>
-              <h4 className="text-xl font-bold text-[#282e76] mb-4">Self Lane</h4>
+              <h4 className="text-xl font-bold text-[#282e76] mb-4">SelfLane</h4>
               <p className="text-gray-600 leading-relaxed">
-                Seguimos na vanguarda implementando o <strong className="text-[#0d7c3d]">Self Lane</strong>, 
+                Seguimos na vanguarda implementando o <strong className="text-[#0d7c3d]">SelfLane</strong>, 
                 uma tecnologia de última geração que eleva ainda mais o nível da experiência no autoatendimento, 
                 garantindo <strong className="text-[#0d7c3d]">praticidade, velocidade e satisfação</strong>.
               </p>
